@@ -1,2 +1,2 @@
 # my-git-practice
-hello
+I created this repository to practice using git.
